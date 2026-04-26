@@ -24,6 +24,15 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/it24100326/bla-bla-bla.git
 git push -u origin main
+git push -f
+
+
+git push -u -f origin main
+
+
+
+
+
 
 ------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------
