@@ -1,0 +1,10 @@
+PORT=5000
+MONGO_URI=mongodb+srv://ashfak:ashfak123@cluster0.5mirgqg.mongodb.net/myFirstDatabase?retryWrites=true&w=majority&appName=Cluster0
+
+# To check the port is working or not?
+netstat -ano | find :5000
+
+
+frontend ->  item form
+label>Serial No</label>
+      <input name="SerialNo" value={formData.SerialNo} onChange={handleChange} />
